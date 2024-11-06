@@ -1,10 +1,7 @@
 import React from 'react';
 import Card from './Card';
-import { CurrentUserContext } from '../contexts/CurrentUserContext';
 
 function CardsMain({ cards, onAddPlace, onCardClick, onCardLike, onCardDelete }) {
-  const currentUser = React.useContext(CurrentUserContext);
-
   const imageStyle = { backgroundImage: `url(${currentUser.avatar})` };
 
   return (
