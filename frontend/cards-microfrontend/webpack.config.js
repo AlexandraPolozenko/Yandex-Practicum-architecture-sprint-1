@@ -1,6 +1,6 @@
 module.exports = {
     name: "cards",
-    filename: "index.js",
+    filename: "cardsIndex.js",
     exposes: {
         
     },
