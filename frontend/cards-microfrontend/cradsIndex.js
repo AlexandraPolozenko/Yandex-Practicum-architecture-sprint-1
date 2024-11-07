@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import './index.css';
 import CardsApp from './components/CardsApp';
 import * as serviceWorker from './serviceWorker';
