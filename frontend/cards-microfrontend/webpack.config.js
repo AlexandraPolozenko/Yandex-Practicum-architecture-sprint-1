@@ -5,5 +5,5 @@ module.exports = {
         './Card': './src/components/Card',
         './AddPlacePopup': './src/components/AddPlacePopup',
     },
-    shared: ["react"]
+    shared: ["react", "PopupWithForm"]
     };
