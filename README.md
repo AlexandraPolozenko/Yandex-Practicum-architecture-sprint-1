@@ -37,14 +37,16 @@ frontend/cards-microservice/webpack.config.js, frontend/profile-microservice/web
 Сейчас выбрала webpack, чтобы было удобней работать с общими библиотеками (например PopupWithForm).
 
 
+**Дополнительно**
+
+Файлы CardsApp, CardsMain и прочие не редактировала (копипаста с App и Main). В работе сфокусировалась только на том, чтобы разложить 
+компоненты по соотетствующим директориям.
+
+
 
 
 
 
 **ЗАДАНИЕ 2**
+
 https://github.com/AlexandraPolozenko/Yandex-Practicum-architecture-sprint-1/blob/sprint_1/Копия%20practicum_sprint_1.drawio
-
-**Дополнительно**
-
-Файлы CardsApp, CardsMain и прочие не редактировала (копипаста с App и Main). В работе сфокусировалась только на том, чтобы разложить 
-компоненты по соотетствующим директориям.
