@@ -1,3 +1,6 @@
+**ЗАДАНИЕ 1**
+
+
 **Структура проекта**
 
 Фронтенд разделен на 3 микрофронтенда: авторизация, профиль пользователя и работа с фотографиями.
@@ -33,6 +36,13 @@ frontend/cards-microservice/webpack.config.js, frontend/profile-microservice/web
 В реальном проекте я бы выбрала ту технологию, какую бы лучше знала команда и с которой был больший опыт работы и в команде, и в самой компании.
 Сейчас выбрала webpack, чтобы было удобней работать с общими библиотеками (например PopupWithForm).
 
+
+
+
+
+
+**ЗАДАНИЕ 2**
+https://github.com/AlexandraPolozenko/Yandex-Practicum-architecture-sprint-1/blob/sprint_1/Копия%20practicum_sprint_1.drawio
 
 **Дополнительно**
 
